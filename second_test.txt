@@ -1,1 +1,2 @@
-"New File" 
+"New File"
+Second line from MASTER
